@@ -2,6 +2,7 @@ const CACHE_NAME = 'family-budget-tracker-v1';
 const urlsToCache = [
     './index.html',
     './manifest.json',
+    './family-budget-icon.png',
     'https://cdn.jsdelivr.net/npm/chart.js'
 ];
 
