@@ -2,7 +2,7 @@
   "name": "부부 가계부",
   "short_name": "가계부",
   "description": "함께 관리하는 우리 가족의 재무",
-  "start_url": "./family-budget-tracker.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
